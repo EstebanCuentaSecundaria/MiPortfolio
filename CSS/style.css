@@ -59,6 +59,11 @@ section h1 {
     color: white;
     margin: 50px 0 50px 0;
 }
+
+.card {
+    color: white !important;
+    background-color: black !important;
+}
 .colorLetra {
     color:brown;
 }
